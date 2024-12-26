@@ -1,5 +1,3 @@
-Voici un fichier `README.md` détaillé pour votre projet :
-
 ```markdown
 # Audio Translation Pipeline
 
