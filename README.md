@@ -86,7 +86,7 @@ process_audio_pipeline(audio_input, output_audio, target_language="fr-fr")
 
 ## Auteur
 **Yonli Fidèle**  
-Contact : [email@example.com](mailto:email@example.com)
+Contact : [email@example.com](mailto:yonlifidelis2@gmail.com)
 
 ---
 
